@@ -1,0 +1,22 @@
+{
+  "name": "first-npm-rawanalosaimi",
+  "version": "1.0.0",
+  "description": "First npm for me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Rawan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawanAlosaimi/first--npm.git"
+  },
+  "keywords": [
+    "rawan"
+  ],
+  "author": "rawan alosaimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawanAlosaimi/first--npm/issues"
+  },
+  "homepage": "https://github.com/rawanAlosaimi/first--npm#readme"
+}
